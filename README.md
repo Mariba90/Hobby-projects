@@ -8,7 +8,8 @@ Here, in this repository, you will see my projects I do for entertainment.
 
 * Music Recognition: bulding a composer classifier from midi files on Bach, Beethoven, Brahms, Schubert. Preprocessing notebook includes reading .midi files, cleaning and feature engineering, i.e., making the data readable for the computer and ready for the machine learning algorithms. Classifier notebook includes classifier algorithms that have been implmeneted and evaluated include SVM, XGBoost, logistic regression, KNN, Random Forest, MLP : link to the data files https://drive.google.com/drive/folders/1weHPqfeWiSdufYLctmf-QpllPXuCCUP0?usp=sharing
 
-
+* generic functions: can be used as tools for 3D grid and particle visualization tasks, reading time-series dictionary files
+ 
 * AnomalyDetection: finding an abnormal image among other images using SVM, AutoEncoder, KNN, PCA, etc..using PyOD package
 
 * Fitbit_API: accessing your fitbit data
